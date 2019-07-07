@@ -1,0 +1,20 @@
+{
+  "name": "wewechat-refresher",
+  "version": "0.0.1",
+  "description": "a refresher for wewechat client",
+  "main": "wewechat-refresher.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "greenlock-express": "^2.7.10",
+    "http-proxy": "^1.17.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

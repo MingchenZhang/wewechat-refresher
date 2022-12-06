@@ -4,8 +4,8 @@
   "description": "a refresher for wewechat client",
   "main": "wewechat-refresher.js",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "greenlock-express": "^2.7.10",
     "http-proxy": "^1.17.0",
     "loglevel": "^1.6.3",
